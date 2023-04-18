@@ -48,6 +48,7 @@
       </div>
     </div>
     <app-form-preview :data="data" />
+    <!--
     <a
       href="https://twitter.com/fayazara"
       target="_blank"
@@ -55,6 +56,7 @@
     >
       Made by Fayaz
     </a>
+    -->
   </div>
 </template>
 
