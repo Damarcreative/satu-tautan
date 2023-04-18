@@ -37,6 +37,7 @@
           <span> Publish </span>
           <icon name="ph:paper-plane-tilt-bold" class="h-4 w-4" />
         </button>
+        <!--
         <a
           href="https://github.com/fayazara/onelink"
           target="_blank"
@@ -44,7 +45,7 @@
         >
           <span> Github </span>
           <icon name="mdi:github" class="h-4 w-4" />
-        </a>
+        </a>-->
       </div>
     </div>
     <app-form-preview :data="data" />
